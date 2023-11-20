@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack web development**
 
-- 👨‍💻 All of my projects are available at [here]([https://github.com/HamalXD](https://github.com/HamalXD?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/HamalXD?tab=repositories](https://github.com/HamalXD?tab=repositories)
 
 - 📫 How to reach me **mrhamal06@gmail.com**
 
